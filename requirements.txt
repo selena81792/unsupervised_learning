@@ -1,0 +1,8 @@
+ipdb
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+sklearn
