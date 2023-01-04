@@ -1,8 +1,9 @@
 ipdb
 jupyterlab
+scipy
 matplotlib
 numpy
-pandas
 scikit-learn
-scipy
 sklearn
+pandas
+os
